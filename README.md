@@ -9,3 +9,5 @@ Stopwatch: Start, pause, and reset functionality.
 Timer: Countdown timer with set and reset options.
 
 Alarm: Settable alarm.
+
+This project was built collaboratively by me and @KaranRaj-15. The idea, coding, and debugging were shared equally between us.
